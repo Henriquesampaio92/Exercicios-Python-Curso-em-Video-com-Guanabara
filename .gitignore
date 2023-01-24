@@ -150,3 +150,27 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+ex115/sistema.py
+ex115/library/interface/__init__.py
+ex115/library/arquivo/__init__.py
+ex115/cursoemvideo.txt
+ex112/UtilidadesCeV/moeda/__init__.py
+ex112/UtilidadesCeV/dado/__init__.py
+ex112/UtilidadesCeV/__init__.py
+ex111/UtilidadesCeV/moeda/__init__.py
+ex112/teste.py
+ex111/UtilidadesCeV/dado/__init__.py
+ex111/UtilidadesCeV/__init__.py
+ex111/teste.py
+ex110/teste.py
+ex110/moeda.py
+ex109/teste.py
+ex109/moeda.py
+ex108/teste.py
+ex108/moeda.py
+ex107/teste.py
+ex107/moeda.py
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/Curso_em_video.iml
